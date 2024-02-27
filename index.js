@@ -47,9 +47,8 @@ function runApp() {
         }
       });
   }
-  // OOPs Functions
 
-  //fucton for add manager
+  //fuction for add manager
   function addManager() {
     inquirer
       .prompt([
@@ -89,7 +88,7 @@ function runApp() {
       });
   }
 
-  //fucton for add engineer
+  //fuction for add engineer
   function addEngineer() {
     inquirer
       .prompt([
@@ -129,7 +128,7 @@ function runApp() {
       });
   }
 
-  //fucton for add intern
+  //fuction for add intern
   function addIntern() {
     inquirer
       .prompt([
