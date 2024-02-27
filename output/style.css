@@ -1,3 +1,5 @@
+/* Added styles to the generated html webpage */
+
 .jumbotron {
   border-radius: 0;
   background-color: #dc3545!important;
@@ -15,7 +17,6 @@
 .card-body {
   background-color: rgb(240, 240, 240);
 }
-
 
 
 .card-header {
